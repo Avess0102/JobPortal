@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(mr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.register{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form{
+    background-color: rgba(255, 255, 255, 0.75);
+    margin: 5% 10%;
+    padding: 2%;
+    text-align: center;
+}
